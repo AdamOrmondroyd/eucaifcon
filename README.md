@@ -1,4 +1,4 @@
-# EuCAIFCon
+# EuCAIFCon [Clustering Considerations for Nested Sampling](https://indico.nikhef.nl/event/4875/contributions/20408/)
 Supplementary material for EuCAIFCon [poster](poster.pdf)
 
 ## Useful links
