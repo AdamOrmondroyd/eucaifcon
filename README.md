@@ -1,5 +1,5 @@
 # EuCAIFCon
-Supplementary material for EuCAIFCon poster
+Supplementary material for EuCAIFCon [poster](poster.pdf)
 
 ## Useful links
 
