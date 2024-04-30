@@ -3,6 +3,6 @@ Supplementary material for EuCAIFCon [poster](poster.pdf)
 
 ## Useful links
 
-- `PolyChord` clustering [branch](https://github.com/AdamOrmondroyd/PolyChordLite/tree/cluster_tree).
-- `clustering` [repository](https://github.com/adamormondroyd/clustering) with example python clustering approaches compatible with `PolyChord`.
+- [`PolyChord`](https://github.com/AdamOrmondroyd/PolyChordLite/tree/cluster_tree) clustering branch.
+- [`clustering`](https://github.com/adamormondroyd/clustering) repository with example python clustering approaches compatible with `PolyChord`.
 - [`anesthetic`](https://github.com/handley-lab/anesthetic) nested sampling post-processing tool, work in progress version with [clustering](https://github.com/AdamOrmondroyd/anesthetic/tree/clustering).
