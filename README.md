@@ -1,4 +1,4 @@
-# eucaifcon
+# EuCAIFCon
 Supplementary material for EuCAIFCon poster
 
 ## Useful links
