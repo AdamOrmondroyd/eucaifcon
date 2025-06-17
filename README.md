@@ -1,10 +1,13 @@
-# EuCAIFCon - [Clustering Considerations for Nested Sampling](https://indico.nikhef.nl/event/4875/contributions/20408/)
+# EuCAIFCon MMXXV - [Data–Driven Dark Energy: Probing w(a) with Flexknots](https://agenda.infn.it/event/43565/contributions/259974/)
 Supplementary material for EuCAIFCon [poster](poster.pdf)
 
 ## Useful links
 
-- [`PolyChord`](https://github.com/AdamOrmondroyd/PolyChordLite/tree/cluster_tree) clustering branch.
-- [`clustering`](https://github.com/adamormondroyd/clustering) repository with example python clustering approaches compatible with `PolyChord`.
-- [`anesthetic`](https://github.com/handley-lab/anesthetic) nested sampling post-processing tool, work in progress version with [clustering](https://github.com/AdamOrmondroyd/anesthetic/tree/clustering).
+- [arXiv:2503.08658](https://arxiv.org/abs/2503.08658)
+- [arXiv:2503.17342](https://arxiv.org/abs/2503.17342)
+- [`jax` nested slice sampling](https://github.com/handley-lab/blackjax)
+- [BAO and supernova likelihoods](https://github.com/adamormondroyd/distances)
+- [BAO and SNe likelihoods in `jax`](https://github.com/adamormondroyd/distances) (work in progress)
+- [`anesthetic`](https://github.com/handley-lab/anesthetic) nested sampling post-processing tool.
 
 ![png of poster.pdf](poster.png)
